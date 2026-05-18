@@ -116,8 +116,8 @@
         {
             "key": null,
             "context": null,
-            "source": "            • COMING SOON: GAMEMODES & Hell!",
-            "translation": "            • COMING SOON: GAMEMODES & Hell!",
+            "source": "            • COMING SOON: GAMEMODES & RANKED!",
+            "translation": "            • COMING SOON: GAMEMODES & RANKED!",
             "ingestionVersion": null,
             "entryId": "fb85f089-1893-44fe-8b52-4ff6aa4b0dfd"
         },
@@ -740,8 +740,8 @@
         {
             "key": null,
             "context": null,
-            "source": "            • Region-based & skill-based matchmaking are still currently in the works! This will greatly improve the experience of matchmade games and pave the way for Hell to come out. Thank you for being patient as we actively work on it!",
-            "translation": "            • Region-based & skill-based matchmaking are still currently in the works! This will greatly improve the experience of matchmade games and pave the way for Hell to come out. Thank you for being patient as we actively work on it!",
+            "source": "            • Region-based & skill-based matchmaking are still currently in the works! This will greatly improve the experience of matchmade games and pave the way for Ranked to come out. Thank you for being patient as we actively work on it!",
+            "translation": "            • Region-based & skill-based matchmaking are still currently in the works! This will greatly improve the experience of matchmade games and pave the way for Ranked to come out. Thank you for being patient as we actively work on it!",
             "ingestionVersion": null,
             "entryId": "591f6dda-1736-4ba2-885a-cd872b1c1cad"
         },
@@ -900,8 +900,8 @@
         {
             "key": null,
             "context": null,
-            "source": "            • We will continue to improve matchmaking as we closely monitor these changes so that we can prepare to introduce Hell!",
-            "translation": "            • We will continue to improve matchmaking as we closely monitor these changes so that we can prepare to introduce Hell!",
+            "source": "            • We will continue to improve matchmaking as we closely monitor these changes so that we can prepare to introduce RANKED!",
+            "translation": "            • We will continue to improve matchmaking as we closely monitor these changes so that we can prepare to introduce RANKED!",
             "ingestionVersion": null,
             "entryId": "43d107ba-3d2e-4d29-8fdd-67860362ca89"
         },
@@ -4460,8 +4460,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Based on your total Hell wins ({number1} / {number2}) and your final ELO ({number3} / {number4})",
-            "translation": "Based on your total Hell wins ({number1} / {number2}) and your final ELO ({number3} / {number4})",
+            "source": "Based on your total ranked wins ({number1} / {number2}) and your final ELO ({number3} / {number4})",
+            "translation": "Based on your total ranked wins ({number1} / {number2}) and your final ELO ({number3} / {number4})",
             "ingestionVersion": null,
             "entryId": "b66d788e-d8f2-4687-84f4-42edb2bd1ade"
         },
@@ -4564,8 +4564,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Become Archnemesis by reaching top {number1} on the Hell Leaderboard!",
-            "translation": "Become Archnemesis by reaching top {number1} on the Hell Leaderboard!",
+            "source": "Become Archnemesis by reaching top {number1} on the Ranked Leaderboard!",
+            "translation": "Become Archnemesis by reaching top {number1} on the Ranked Leaderboard!",
             "ingestionVersion": null,
             "entryId": "779b28b6-a382-4665-8ceb-e8bbbf415d62"
         },
@@ -9916,8 +9916,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Earn {number1} points from every Hell win   •   Only available during Season {number2}",
-            "translation": "Earn {number1} points from every Hell win   •   Only available during Season {number2}",
+            "source": "Earn {number1} points from every ranked win   •   Only available during Season {number2}",
+            "translation": "Earn {number1} points from every ranked win   •   Only available during Season {number2}",
             "ingestionVersion": null,
             "entryId": "edcd9f30-1bbf-461f-abaf-19a65c02b98d"
         },
@@ -9996,8 +9996,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Earned by playing Hell Season {number1}",
-            "translation": "Earned by playing Hell Season {number1}",
+            "source": "Earned by playing Ranked Season {number1}",
+            "translation": "Earned by playing Ranked Season {number1}",
             "ingestionVersion": null,
             "entryId": "bdadcad4-5519-42ca-a6b1-b1e20528b550"
         },
@@ -11588,8 +11588,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Find out how good you really are by playing Hell",
-            "translation": "Find out how good you really are by playing Hell",
+            "source": "Find out how good you really are by playing Ranked",
+            "translation": "Find out how good you really are by playing Ranked",
             "ingestionVersion": null,
             "entryId": "c8a07ca9-0028-4f8e-a88b-22dff720259c"
         },
@@ -12173,7 +12173,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — A secret gamemode can be played in Private Servers {number1}nly if you change your display name",
-            "translation": "Fun Fact — A secret gamemode can be played in Private Servers {number1}nly if you change your display name",
+            "translation": "Press W to go forward",
             "ingestionVersion": null,
             "entryId": "661345e9-0903-46f3-9e19-09a950bacc8c"
         },
@@ -12181,7 +12181,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Abusing FFlags is the same as cheating and may result in permanent bans",
-            "translation": "this texture pack was made by big mircatron (Mircbreaker)",
+            "translation": "This texture pack was made by big mircatron",
             "ingestionVersion": null,
             "entryId": "bce3c794-7693-45ee-b729-fce20d6db25a"
         },
@@ -12189,7 +12189,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Aiming with a projectile weapon makes the projectile spawn from the center of your screen",
-            "translation": "veck.io better than this ngl",
+            "translation": "vieny get off gun game and either do tickets or mod protect me",
             "ingestionVersion": null,
             "entryId": "79cc33a8-7ba9-47db-91a2-c6ef812a92a2"
         },
@@ -12197,7 +12197,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Airblast downwards to launch yourself up with the Flamethrower",
-            "translation": "pirxcy is my favorite person to ragebait",
+            "translation": "ousfey i need arch ban everyone i dont like",
             "ingestionVersion": null,
             "entryId": "cd9f980e-f113-4180-a84a-72c8fe770b53"
         },
@@ -12205,7 +12205,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Airborne Satchels don't deal much damage",
-            "translation": "UVEALS GET OFF THE GAME AND DO SOME TICKETS",
+            "translation": "Pro tip: Rev the chainsaw BEFORE YOU SLIDE",
             "ingestionVersion": null,
             "entryId": "66ecb628-b52b-48dc-858f-19ae9403df9f"
         },
@@ -12213,7 +12213,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Arena is being deleted on February {number1}th",
-            "translation": "hey so uhhh, ummmmmm uhhhh... i got nothing :(",
+            "translation": "Incublox needs to never touch ranked again",
             "ingestionVersion": null,
             "entryId": "eb67f8e1-31b3-4d0f-8a2d-0941e604146c"
         },
@@ -12221,7 +12221,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Arena was originally a test map and was made in {number1} minutes",
-            "translation": "Fun Fact — Arena was originally a test map and was made in {number1} minutes",
+            "translation": "Tinydude charm when",
             "ingestionVersion": null,
             "entryId": "5b875bc9-6e48-497f-b0bd-35bbeefb2ead"
         },
@@ -12229,7 +12229,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Auto Shoot and Aim Assist are getting buffed tomorrow by ×{number1}",
-            "translation": "Fun Fact — Auto Shoot and Aim Assist are getting buffed tomorrow by ×{number1}",
+            "translation": "thanks for 5k!",
             "ingestionVersion": null,
             "entryId": "e1d74c01-3d55-4040-b0b9-f0a175c329db"
         },
@@ -12237,7 +12237,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Beware of spontaneous stick bug sightings",
-            "translation": "theres bugs in my skin",
+            "translation": "if you find a really bad bug u get bug net",
             "ingestionVersion": null,
             "entryId": "221c59c8-5882-4cc8-8afc-7c1b15511043"
         },
@@ -12245,7 +12245,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Cheat programs are made by bad people that spy on your computer",
-            "translation": "if you cheat ur a bum, simple",
+            "translation": "if you cheat ur getting hacked, simple",
             "ingestionVersion": null,
             "entryId": "377962aa-43d3-4ade-9b32-6b9531fbbad3"
         },
@@ -12253,7 +12253,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Cheating results in a permanent ban with no chance of appealing",
-            "translation": "Fun Fact — they are NOT updating the anticheat, AT ALL",
+            "translation": "do the devs REALLY try to ban cheaters?",
             "ingestionVersion": null,
             "entryId": "9dbe3c5a-7b36-42de-83f6-ff2864e5149e"
         },
@@ -12261,7 +12261,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Check out Super Golf!",
-            "translation": "Fun fact- the devs patched ladder sliding but didnt patch all the other cheats.",
+            "translation": "apples and bananas",
             "ingestionVersion": null,
             "entryId": "e20222f9-80b4-4859-98bb-b6b09c73ec7b"
         },
@@ -12269,7 +12269,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Check out Treasure Quest!",
-            "translation": "there was a guy who tripped on a banana peel, how.",
+            "translation": "yo hop on reminiscence zombies its fire",
             "ingestionVersion": null,
             "entryId": "e7827cef-d696-4791-b5bf-3ef01d96e816"
         },
@@ -12277,7 +12277,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Climb the crane",
-            "translation": "dont go on the crane or im beaming you",
+            "translation": "<-- absolute pro",
             "ingestionVersion": null,
             "entryId": "d0a43618-cf13-48c2-bcd9-29003596dfb4"
         },
@@ -12285,7 +12285,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Complete weapon contracts for free keys & cosmetics",
-            "translation": "R.I.P pikitty, warper nerf got to em",
+            "translation": "all guns are balanced unless im losing to them, then theyre op",
             "ingestionVersion": null,
             "entryId": "fdd95940-9c04-4e41-a3ec-558488b8aaf6"
         },
@@ -12293,7 +12293,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Complete your tasks for free keys",
-            "translation": "Lboost does not care abt the warper nerf",
+            "translation": "private servers with friends are better than ranked",
             "ingestionVersion": null,
             "entryId": "d9bb3236-3128-4545-a87e-730dbbe07fb7"
         },
@@ -12301,7 +12301,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Don't be a meanie",
-            "translation": "bullying is bad.",
+            "translation": "go do RCL if u wanna test skill, ranked sucks",
             "ingestionVersion": null,
             "entryId": "bdf69a53-0461-42b1-8be1-8577153b4aba"
         },
@@ -12309,7 +12309,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Don't look at the flashbang",
-            "translation": "press W to go forward",
+            "translation": "big body tonka tha big body tonka trucccck",
             "ingestionVersion": null,
             "entryId": "b7a169b7-0102-46cd-b060-2c45d86f06c9"
         },
@@ -12317,7 +12317,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Double dash with Gunblade and Scythe",
-            "translation": "sub to mircbreaker :)",
+            "translation": "sub to mircbreaker (thats me)",
             "ingestionVersion": null,
             "entryId": "2d289a43-61ae-4125-8c2d-d7cb0d4f4b61"
         },
@@ -12325,7 +12325,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Downloading a cheat program can hack your computer",
-            "translation": "zippy zippy zip zip",
+            "translation": "cheating will hack ur pc, but you dont care abt that do you?",
             "ingestionVersion": null,
             "entryId": "534614be-83c5-450b-8bf1-01effc62be3f"
         },
@@ -12333,7 +12333,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Earn bonus rewards by keeping up your Daily Task Streak",
-            "translation": "um this took me too long",
+            "translation": "i lwk dont wanna grind celestial wrap",
             "ingestionVersion": null,
             "entryId": "6b4e9d06-af83-4f26-a0cf-f4fee9a20633"
         },
@@ -12341,7 +12341,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Explosions allow you to fly across the map",
-            "translation": "Don't be we1rd and use grenade launcher",
+            "translation": "do i get dark matter chainsaw, scarlet said i should",
             "ingestionVersion": null,
             "entryId": "af60c60e-cff1-4c22-bd0a-6ab4f3231191"
         },
@@ -12356,8 +12356,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Find out how good you really are by playing Hell",
-            "translation": "Hell IS THE EQUIVALENT OF A RUSSIAN GULAG",
+            "source": "Fun Fact — Find out how good you really are by playing Ranked",
+            "translation": "I HATE RANKED I HATE RANKED I HATE RANKED I HATE RANKED I HATE RANKED I HATE RANKED ",
             "ingestionVersion": null,
             "entryId": "1d56c3f8-d447-4608-bc33-e06ee6711d6e"
         },
@@ -12365,7 +12365,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Frozen enemies fall through the water in Splash",
-            "translation": "sketchy what the frick",
+            "translation": "riot freeze shorty if im losing in ranked",
             "ingestionVersion": null,
             "entryId": "8f654a55-4186-45d0-9267-5b8c56a977ba"
         },
@@ -12373,7 +12373,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Frozen enemies only receive half as much damage",
-            "translation": "ive told incubator not to touch Hell, and he DOES",
+            "translation": "nosknee gimme brimstone",
             "ingestionVersion": null,
             "entryId": "499c9f3a-a6d9-490a-9d04-4c8a933daaaa"
         },
@@ -12381,7 +12381,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — If you ask for something from a developer, you won't be given anything",
-            "translation": "yo vieny mod protect me",
+            "translation": "there was this one time someone begged nosniy for a legendary key bundle and a 1v1, he GOT IT",
             "ingestionVersion": null,
             "entryId": "45e82c2d-6df3-43d4-8695-20298c6d711c"
         },
@@ -12389,7 +12389,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Please vote for something other than Arena",
-            "translation": "yo ousfey mod protect me",
+            "translation": "Arena is good, but theres a billion other maps",
             "ingestionVersion": null,
             "entryId": "089e21cc-ae9d-4f1c-a385-3866f35b1298"
         },
@@ -12397,7 +12397,7 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Quickly use your melee weapon's ability by pressing Quick Melee",
-            "translation": "Fun Fact — Quickly use your melee weapon's ability by pressing Quick Melee",
+            "translation": "delay the dash in ur scythe",
             "ingestionVersion": null,
             "entryId": "2a6c900e-59ec-4ce8-afdf-70b040ee6046"
         },
@@ -12405,249 +12405,353 @@
             "key": null,
             "context": null,
             "source": "Fun Fact — Quickly use your utility weapon's ability by pressing Quick Utility",
-            "translation": "Fun Fact — Quickly use your utility weapon's ability by pressing Quick Utility",
+            "translation": "i luv geometre dash so much",
             "ingestionVersion": null,
             "entryId": "a10ad3da-8139-486a-8b79-fe031f635440"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — A secret gamemode can be played in Private Servers {number1}nly if you change your display name",
-            "translation": "Fun Fact — A secret gamemode can be played in Private Servers {number1}nly if you change your display name",
+            "source": "Fun Fact — Redeem code \"BONUS\"",
+            "translation": "i want money so lwk gift me key slingshot",
             "ingestionVersion": null,
-            "entryId": "661345e9-0903-46f3-9e19-09a950bacc8c"
+            "entryId": "b620c8e9-dc20-4c6b-9462-facd56a68679"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Abusing FFlags is the same as cheating and may result in permanent bans",
-            "translation": "this texture pack was made by big mircatron (Mircbreaker)",
+            "source": "Fun Fact — Redeem code \"BOOST\"",
+            "translation": "yo daniel do you have mod connections, i need arch",
             "ingestionVersion": null,
-            "entryId": "bce3c794-7693-45ee-b729-fce20d6db25a"
+            "entryId": "3000be29-2817-4e7f-b7aa-bc164abceb70"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Aiming with a projectile weapon makes the projectile spawn from the center of your screen",
-            "translation": "veck.io better than this ngl",
+            "source": "Fun Fact — Redeem code \"ELBILLUG\" for a free Skin Case",
+            "translation": "cheating makes ur iq go down by 90%",
             "ingestionVersion": null,
-            "entryId": "79cc33a8-7ba9-47db-91a2-c6ef812a92a2"
+            "entryId": "8af928a3-7e0f-4a14-9cbf-a77a23bb2b3d"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Airblast downwards to launch yourself up with the Flamethrower",
-            "translation": "pirxcy is my favorite person to ragebait",
+            "source": "Fun Fact — Satchels can stick onto Riot Shields",
+            "translation": "funny idea: strap 2 satchels onto ur tm8 and let them run wild",
             "ingestionVersion": null,
-            "entryId": "cd9f980e-f113-4180-a84a-72c8fe770b53"
+            "entryId": "6dc7d5ae-e487-46c3-ac7a-0141b078253a"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Airborne Satchels don't deal much damage",
-            "translation": "UVEALS GET OFF THE GAME AND DO SOME TICKETS",
+            "source": "Fun Fact — Screenshots of your logs help us fix bugs — press [F{number1}] or say \"/console\"",
+            "translation": "look im yellow",
             "ingestionVersion": null,
-            "entryId": "66ecb628-b52b-48dc-858f-19ae9403df9f"
+            "entryId": "732ffaaf-50e7-45a9-8eee-c0759516f5d3"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Arena is being deleted on February {number1}th",
-            "translation": "hey so uhhh, ummmmmm uhhhh... i got nothing :(",
+            "source": "Fun Fact — Sniper hitboxes are much smaller than other weapons",
+            "translation": "UVEALS GET OFF THE GAME AND DO TICKETS",
             "ingestionVersion": null,
-            "entryId": "eb67f8e1-31b3-4d0f-8a2d-0941e604146c"
+            "entryId": "d7af34c3-ea54-4abf-8814-8d6d01d7332b"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Arena was originally a test map and was made in {number1} minutes",
-            "translation": "Fun Fact — Arena was originally a test map and was made in {number1} minutes",
+            "source": "Fun Fact — Sniper is not OP",
+            "translation": "the devs nerfed sniper to the ground, now the cheaters have more power :(",
             "ingestionVersion": null,
-            "entryId": "5b875bc9-6e48-497f-b0bd-35bbeefb2ead"
+            "entryId": "0a93790a-e446-4dc9-9e80-419adee5a27d"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Auto Shoot and Aim Assist are getting buffed tomorrow by ×{number1}",
-            "translation": "Fun Fact — Auto Shoot and Aim Assist are getting buffed tomorrow by ×{number1}",
+            "source": "Fun Fact — Some splash-damage weapons deal more damage if you land a direct hit",
+            "translation": "dont ever use riot against me, im gonna get angry",
             "ingestionVersion": null,
-            "entryId": "e1d74c01-3d55-4040-b0b9-f0a175c329db"
+            "entryId": "c61a448b-b52b-4248-9cd1-d23e58f36b2d"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Beware of spontaneous stick bug sightings",
-            "translation": "theres bugs in my skin",
+            "source": "Fun Fact — Some weapons and skins have secret inspect animations",
+            "translation": "dont you like, have a job or someting",
             "ingestionVersion": null,
-            "entryId": "221c59c8-5882-4cc8-8afc-7c1b15511043"
+            "entryId": "a9d57e30-19c2-4e11-af7f-14bb160ba505"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Cheat programs are made by bad people that spy on your computer",
-            "translation": "if you cheat ur a bum, simple",
+            "source": "Fun Fact — Some weapons let you double jump",
+            "translation": "<-- certified pro",
             "ingestionVersion": null,
-            "entryId": "377962aa-43d3-4ade-9b32-6b9531fbbad3"
+            "entryId": "ddb85ca1-7f44-4c01-a970-86b28081c17b"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Cheating results in a permanent ban with no chance of appealing",
-            "translation": "Fun Fact — they are NOT updating the anticheat, AT ALL",
+            "source": "Fun Fact — Some weapons, such as the Sniper & Shotgun, can pierce through enemies",
+            "translation": "dying to riot? yeah me too :(",
             "ingestionVersion": null,
-            "entryId": "9dbe3c5a-7b36-42de-83f6-ff2864e5149e"
+            "entryId": "3c0b8e58-5c36-496f-a6f3-f42f7d20f042"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Check out Super Golf!",
-            "translation": "Fun fact- the devs patched ladder sliding but didnt patch all the other cheats.",
+            "source": "Fun Fact — Something spooky happens during Match Point in Graveyard",
+            "translation": "bad aim? me too :(",
             "ingestionVersion": null,
-            "entryId": "e20222f9-80b4-4859-98bb-b6b09c73ec7b"
+            "entryId": "75c1b952-67dd-45a8-9ebc-d3b71e570b69"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Check out Treasure Quest!",
-            "translation": "there was a guy who tripped on a banana peel, how.",
+            "source": "Fun Fact — Spray can penetrate through Katanas & Riot Shields",
+            "translation": "nosniy dont push out a crap update again",
             "ingestionVersion": null,
-            "entryId": "e7827cef-d696-4791-b5bf-3ef01d96e816"
+            "entryId": "c4066a55-ee19-4bef-ba56-33991a0aeccb"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Climb the crane",
-            "translation": "dont go on the crane or im beaming you",
+            "source": "Fun Fact — Switching to your secondary is faster than reloading",
+            "translation": "maul underrated",
             "ingestionVersion": null,
-            "entryId": "d0a43618-cf13-48c2-bcd9-29003596dfb4"
+            "entryId": "9d4e4ce4-3e20-4de3-adf8-10e0c9f24cb5"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Complete weapon contracts for free keys & cosmetics",
-            "translation": "R.I.P pikitty, warper nerf got to em",
+            "source": "Fun Fact — Tap the icon in the Player List to see everyone's Win Streak, Level, or Rank",
+            "translation": "CUT CUT: THAT WASNT IN THE SCRIPT!!!",
             "ingestionVersion": null,
-            "entryId": "fdd95940-9c04-4e41-a3ec-558488b8aaf6"
+            "entryId": "89f191cd-93d4-4590-aea3-ad1a4d89ca0a"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Complete your tasks for free keys",
-            "translation": "Lboost does not care abt the warper nerf",
+            "source": "Fun Fact — The Arcade Servers feature classic shooter gamemodes such as Team Deathmatch",
+            "translation": "Free for All is a raging hacking infested WASTELAND, satchels lwk work though",
             "ingestionVersion": null,
-            "entryId": "d9bb3236-3128-4545-a87e-730dbbe07fb7"
+            "entryId": "04f7816e-bf27-417e-a442-1398260e0f07"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Don't be a meanie",
-            "translation": "bullying is bad.",
+            "source": "Fun Fact — The bell in Graveyard can ring",
+            "translation": "oooh spooky",
             "ingestionVersion": null,
-            "entryId": "bdf69a53-0461-42b1-8be1-8577153b4aba"
+            "entryId": "875a5405-3ba9-49b5-b55f-de79e60dca50"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Don't look at the flashbang",
-            "translation": "press W to go forward",
+            "source": "Fun Fact — The cheapest weapon, Spray, only costs {number1} keys",
+            "translation": "BOOO!!! i didnt scare u did i :(",
             "ingestionVersion": null,
-            "entryId": "b7a169b7-0102-46cd-b060-2c45d86f06c9"
+            "entryId": "b968fd25-93d4-47e6-951a-a2baa61124e1"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Double dash with Gunblade and Scythe",
-            "translation": "sub to mircbreaker :)",
+            "source": "Fun Fact — The default loadout is actually really good",
+            "translation": "\"use dl \" --guy that was losing when i was on chainsaw",
             "ingestionVersion": null,
-            "entryId": "2d289a43-61ae-4125-8c2d-d7cb0d4f4b61"
+            "entryId": "6a977303-9198-4e2b-ba0b-de5fc43d904d"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Downloading a cheat program can hack your computer",
-            "translation": "zippy zippy zip zip",
+            "source": "Fun Fact — The game (RIVALS) was originally going to be a PvE zombie game",
+            "translation": "this game is lwk getting stale",
             "ingestionVersion": null,
-            "entryId": "534614be-83c5-450b-8bf1-01effc62be3f"
+            "entryId": "417e3f0b-f2da-48ab-9920-1413cef2f985"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Earn bonus rewards by keeping up your Daily Task Streak",
-            "translation": "um this took me too long",
+            "source": "Fun Fact — The group (Nosniy Games) has been making games since {number1}",
+            "translation": "banana",
             "ingestionVersion": null,
-            "entryId": "6b4e9d06-af83-4f26-a0cf-f4fee9a20633"
+            "entryId": "ad557db8-e0a6-4176-929e-abc67d025c14"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Explosions allow you to fly across the map",
-            "translation": "Don't be we1rd and use grenade launcher",
+            "source": "Fun Fact — The Knife's backstab eliminates in one hit",
+            "translation": "yo pirxcy (get it cuz his user name is- yknow what nvm)",
             "ingestionVersion": null,
-            "entryId": "af60c60e-cff1-4c22-bd0a-6ab4f3231191"
+            "entryId": "95782951-92e9-4115-ac46-7df7a6150a2a"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Find all of the Jump Shards to craft the Jump Pad",
-            "translation": "boing boing boing",
+            "source": "Fun Fact — The majority vote doesn't always win when you're voting for a map",
+            "translation": "i love it when one person votes something else against the other 9 and he wins!!!",
             "ingestionVersion": null,
-            "entryId": "826c4cde-4b83-4b9e-9f2e-9a15908f1e59"
+            "entryId": "88588991-f788-4b1e-8e67-3b405087e99d"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Find out how good you really are by playing Hell",
-            "translation": "Hell IS THE EQUIVALENT OF A RUSSIAN GULAG",
+            "source": "Fun Fact — The Patch Notes page contains all of the new content & balance changes",
+            "translation": "read the patch notes",
             "ingestionVersion": null,
-            "entryId": "1d56c3f8-d447-4608-bc33-e06ee6711d6e"
+            "entryId": "a204655d-abbf-41f5-881d-e6ded1a075f8"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Frozen enemies fall through the water in Splash",
-            "translation": "sketchy what the frick",
+            "source": "Fun Fact — The red figure will find you",
+            "translation": "darktru i stole ur bugnet",
             "ingestionVersion": null,
-            "entryId": "8f654a55-4186-45d0-9267-5b8c56a977ba"
+            "entryId": "0ff0e2d9-d186-4905-9516-372639148186"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Frozen enemies only receive half as much damage",
-            "translation": "ive told incubator not to touch Hell, and he DOES",
+            "source": "Fun Fact — The Riot Shield can protect you from behind",
+            "translation": "dont use trowel, unless ur playing against ragers",
             "ingestionVersion": null,
-            "entryId": "499c9f3a-a6d9-490a-9d04-4c8a933daaaa"
+            "entryId": "91f8cbea-4af9-45f0-88f1-3052a8f71f49"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — If you ask for something from a developer, you won't be given anything",
-            "translation": "yo vieny mod protect me",
+            "source": "Fun Fact — The team with the highest total health wins the round if time runs out",
+            "translation": "so... when do i get a charm",
             "ingestionVersion": null,
-            "entryId": "45e82c2d-6df3-43d4-8695-20298c6d711c"
+            "entryId": "f0e6b1fb-26c5-45b0-9856-766ff2c1b8b9"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Please vote for something other than Arena",
-            "translation": "yo ousfey mod protect me",
+            "source": "Fun Fact — The teams represent two rival companies; Nosniy Inc. + Sensei Global",
+            "translation": "this game is tf2 ngl",
             "ingestionVersion": null,
-            "entryId": "089e21cc-ae9d-4f1c-a385-3866f35b1298"
+            "entryId": "0b91830a-0384-42f6-8040-82a039c096b2"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Quickly use your melee weapon's ability by pressing Quick Melee",
-            "translation": "Fun Fact — Quickly use your melee weapon's ability by pressing Quick Melee",
+            "source": "Fun Fact — The traffic cones in Docks can be used to quickly reach the rooftops",
+            "translation": "coneboosting is fire, use the cones on docks",
             "ingestionVersion": null,
-            "entryId": "2a6c900e-59ec-4ce8-afdf-70b040ee6046"
+            "entryId": "86d742e7-6b20-4190-8c8a-e9f521c8cde9"
         },
         {
             "key": null,
             "context": null,
-            "source": "Fun Fact — Quickly use your utility weapon's ability by pressing Quick Utility",
-            "translation": "Fun Fact — Quickly use your utility weapon's ability by pressing Quick Utility",
+            "source": "Fun Fact — There are new gamemodes every day in the Play page",
+            "translation": "default duels is free wins",
             "ingestionVersion": null,
-            "entryId": "a10ad3da-8139-486a-8b79-fe031f635440"
+            "entryId": "e848ce8c-6ac1-40a6-b6f5-769b935f9105"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — There be charks in these waters",
+            "translation": "Pro tip: u jump",
+            "ingestionVersion": null,
+            "entryId": "f6f47614-cb10-4fc1-b993-4591c05d4de4"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — There's something odd about the targets",
+            "translation": "Mantle jump speedrun post patch any% WR",
+            "ingestionVersion": null,
+            "entryId": "012c7004-f3c2-4ce1-ba72-fcfdafff7978"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can change your crosshair & hotkeys in the Settings page",
+            "translation": "shoutout to sharktactics i guess",
+            "ingestionVersion": null,
+            "entryId": "ac6ea5d1-2ed2-4da3-9ca6-0a9251603d88"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can earn free cosmetics by winning duels & reaching streak milestones",
+            "translation": "SpeedySam07 GO POST BRO",
+            "ingestionVersion": null,
+            "entryId": "1682b834-2308-41b5-b67d-d7bcaf1c257e"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can earn free rewards by watching video ads in the Shop",
+            "translation": "Dont play ranked, its BAD",
+            "ingestionVersion": null,
+            "entryId": "9b0d7cb5-0c6c-4ae5-b8f6-9e318b63c09a"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can earn special rewards for eliminating developers & influencers",
+            "translation": "im based till i die thats just something that we already know",
+            "ingestionVersion": null,
+            "entryId": "01a1705c-a6f5-4dee-8206-f964f45fa5f0"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can extinguish all sorts of fires using a Smoke Grenade",
+            "translation": "RCL is better than ts",
+            "ingestionVersion": null,
+            "entryId": "1077ddae-7727-41e9-801e-4e37259685f4"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can inspect & aim your gun at the same time",
+            "translation": "yo bro hop on veck.io",
+            "ingestionVersion": null,
+            "entryId": "36f076df-29ea-4723-b8c0-5c9ff1801dd0"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can play secret maps in Private Servers",
+            "translation": "roblox should like... make their anticheat better",
+            "ingestionVersion": null,
+            "entryId": "299eed2e-d2c5-4398-bdcb-7d1a8efa4987"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can switch modes with Gunblade by breaking windows",
+            "translation": "orange apple banana",
+            "ingestionVersion": null,
+            "entryId": "cf767d8c-b79a-4bf5-bcd3-ca971916267f"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — You can use locked weapons in Private Servers",
+            "translation": "idk what to say here",
+            "ingestionVersion": null,
+            "entryId": "1c0d5b09-4bef-469d-8579-ebf572e91cac"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — Your choice of Melee could completely change how you play",
+            "translation": "Hoverstrafing is real",
+            "ingestionVersion": null,
+            "entryId": "c55973ec-f322-4832-8cc7-347d51d64090"
+        },
+        {
+            "key": null,
+            "context": null,
+            "source": "Fun Fact — Your win streak is safe in most gamemodes",
+            "translation": "donnie are you even a real person",
+            "ingestionVersion": null,
+            "entryId": "7745513e-b694-4571-a584-554276e290c6"
         },
         {
             "key": null,
@@ -18812,8 +18916,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Play Hell",
-            "translation": "Play Hell",
+            "source": "Play Ranked",
+            "translation": "Play Ranked",
             "ingestionVersion": null,
             "entryId": "effe832e-5756-45ad-9638-cebc6843a8c4"
         },
@@ -19292,8 +19396,8 @@
         {
             "key": null,
             "context": null,
-            "source": "Purchased from the Hell Shop",
-            "translation": "Purchased from the Hell Shop",
+            "source": "Purchased from the Ranked Shop",
+            "translation": "Purchased from the Ranked Shop",
             "ingestionVersion": null,
             "entryId": "6fddc8e4-5dce-44fe-9fa4-9f3109ffe7ab"
         },
@@ -19580,88 +19684,88 @@
         {
             "key": null,
             "context": null,
-            "source": Hell,
-            "translation": Hell,
+            "source": "Ranked",
+            "translation": "[DANGER ZONE]",
             "ingestionVersion": null,
             "entryId": "0d395967-354d-4ad7-89d0-b7cd2f7a1d3b"
         },
         {
             "key": null,
             "context": null,
-            "source": Hell,
-            "translation": Hell,
+            "source": "RANKED",
+            "translation": "[DANGER ZONE]",
             "ingestionVersion": null,
             "entryId": "8a1657ac-daa9-4a8e-9b62-61f2b008b864"
         },
         {
             "key": null,
             "context": null,
-            "source": Hell,
-            "translation": Hell,
+            "source": "Ranked                             ",
+            "translation": "[DANGER ZONE]                             ",
             "ingestionVersion": null,
             "entryId": "7833fa07-46ee-4d60-9643-5e21273a36e9"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell {number1}v{number2}",
-            "translation": "Hell {number1}v{number2}",
+            "source": "Ranked {number1}v{number2}",
+            "translation": "[DANGER ZONE] {number1}v{number2}",
             "ingestionVersion": null,
             "entryId": "4658b585-b00c-4e32-80f3-8682b243d7df"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell Contract",
-            "translation": "Hell Contract",
+            "source": "Ranked Contract",
+            "translation": "[DANGER ZONE] Contract",
             "ingestionVersion": null,
             "entryId": "beda5a61-67be-45b9-b79a-e7a69bdefdcf"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell Duels Played",
-            "translation": "Hell Duels Played",
+            "source": "Ranked Duels Played",
+            "translation": "[DANGER ZONE] Duels Played",
             "ingestionVersion": null,
             "entryId": "d53e5e4a-2b6a-4d5c-9db5-833b3c28a807"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell losses",
-            "translation": "Hell losses",
+            "source": "ranked losses",
+            "translation": "[DANGER ZONE] losses",
             "ingestionVersion": null,
             "entryId": "6baf14f3-e113-492a-a6b5-887c3adc6477"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell MODE",
-            "translation": "Hell MODE",
+            "source": "RANKED MODE",
+            "translation": "[DANGER ZONE] MODE",
             "ingestionVersion": null,
             "entryId": "1c8dd129-e87f-4038-970d-2d0a685c3ced"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell Rounds Played",
-            "translation": "Hell Rounds Played",
+            "source": "Ranked Rounds Played",
+            "translation": "[DANGER ZONE] Rounds Played",
             "ingestionVersion": null,
             "entryId": "c2765255-8fa9-4496-926e-1d2164a444d3"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell win %",
-            "translation": "Hell win %",
+            "source": "ranked win %",
+            "translation": "[DANGER ZONE] win %",
             "ingestionVersion": null,
             "entryId": "119484b1-d4ee-4fa3-a3c4-5585f8d5f045"
         },
         {
             "key": null,
             "context": null,
-            "source": "Hell wins",
-            "translation": "Hell wins",
+            "source": "ranked wins",
+            "translation": "[DANGER ZONE] wins",
             "ingestionVersion": null,
             "entryId": "13ccaf94-afe0-43c2-ab02-8754de128e94"
         },
@@ -21028,32 +21132,32 @@
         {
             "key": null,
             "context": null,
-            "source": "Looking for Cheaters!!!",
-            "translation": "Looking for Cheaters!!!",
+            "source": "Searching for players",
+            "translation": "Searching for players",
             "ingestionVersion": null,
             "entryId": "461d10f6-0556-4d71-8955-ece07e871a3f"
         },
         {
             "key": null,
             "context": null,
-            "source": "Looking for Cheaters!!!.",
-            "translation": "Looking for Cheaters!!!.",
+            "source": "Searching for players.",
+            "translation": "Searching for players.",
             "ingestionVersion": null,
             "entryId": "693627cc-dcf4-4402-8a26-db21026a5446"
         },
         {
             "key": null,
             "context": null,
-            "source": "Looking for Cheaters!!!..",
-            "translation": "Looking for Cheaters!!!..",
+            "source": "Searching for players..",
+            "translation": "Searching for players..",
             "ingestionVersion": null,
             "entryId": "3c8a4ea9-b3b8-4204-b91d-26abc8e1e6e7"
         },
         {
             "key": null,
             "context": null,
-            "source": "Looking for Cheaters!!!...",
-            "translation": "Looking for Cheaters!!!...",
+            "source": "Searching for players...",
+            "translation": "Searching for players...",
             "ingestionVersion": null,
             "entryId": "3c38e4e6-6c0f-4040-a34a-1c986bd87398"
         },
@@ -24716,8 +24820,8 @@
         {
             "key": null,
             "context": null,
-            "source": "UnHell",
-            "translation": "UnHell",
+            "source": "Unranked",
+            "translation": "Unranked",
             "ingestionVersion": null,
             "entryId": "c1554ecc-dbd3-4b15-93a0-dc9d6b5ff3b8"
         },
@@ -26268,8 +26372,8 @@
         {
             "key": null,
             "context": null,
-            "source": "You've been given a loss & timed out from Hell",
-            "translation": "You've been given a loss & timed out from Hell",
+            "source": "You've been given a loss & timed out from Ranked",
+            "translation": "You've been given a loss & timed out from Ranked",
             "ingestionVersion": null,
             "entryId": "768671ce-cbb9-4274-9a67-27140ee34556"
         },
