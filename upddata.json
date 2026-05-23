@@ -23045,7 +23045,7 @@
             "key": null,
             "context": null,
             "source": "SUDDEN DEATH",
-            "translation": "SUDDEN DEATH",
+            "translation": "TIEBREAKER",
             "ingestionVersion": null,
             "entryId": "b705ee39-4e01-4026-be12-36cc652840d3"
         },
@@ -23533,7 +23533,7 @@
             "key": null,
             "context": null,
             "source": "Thanks for playing, {player1}!",
-            "translation": "Thanks for playing, {player1}!",
+            "translation": "yo {player1}, is this how we are gonna lose our minds?",
             "ingestionVersion": null,
             "entryId": "81f1d616-5902-47b2-ab4d-76029382a3a8"
         },
@@ -23669,7 +23669,7 @@
             "key": null,
             "context": null,
             "source": "The game (RIVALS) was released on June {number1}, {number2}",
-            "translation": "The game (RIVALS) was released on June {number1}, {number2}",
+            "translation": "Rivals is alright i guess",
             "ingestionVersion": null,
             "entryId": "e707f737-4004-4550-a18d-f4dc47319d97"
         },
