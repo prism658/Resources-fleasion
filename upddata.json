@@ -19685,7 +19685,7 @@
             "key": null,
             "context": null,
             "source": "Ranked",
-            "translation": "[DANGER ZONE]",
+            "translation": "League",
             "ingestionVersion": null,
             "entryId": "0d395967-354d-4ad7-89d0-b7cd2f7a1d3b"
         },
@@ -19693,7 +19693,7 @@
             "key": null,
             "context": null,
             "source": "RANKED",
-            "translation": "[DANGER ZONE]",
+            "translation": "League",
             "ingestionVersion": null,
             "entryId": "8a1657ac-daa9-4a8e-9b62-61f2b008b864"
         },
@@ -19701,7 +19701,7 @@
             "key": null,
             "context": null,
             "source": "Ranked                             ",
-            "translation": "[DANGER ZONE]                             ",
+            "translation": "League                             ",
             "ingestionVersion": null,
             "entryId": "7833fa07-46ee-4d60-9643-5e21273a36e9"
         },
@@ -19709,7 +19709,7 @@
             "key": null,
             "context": null,
             "source": "Ranked {number1}v{number2}",
-            "translation": "[DANGER ZONE] {number1}v{number2}",
+            "translation": "League {number1}v{number2}",
             "ingestionVersion": null,
             "entryId": "4658b585-b00c-4e32-80f3-8682b243d7df"
         },
@@ -19717,7 +19717,7 @@
             "key": null,
             "context": null,
             "source": "Ranked Contract",
-            "translation": "[DANGER ZONE] Contract",
+            "translation": "League Contract",
             "ingestionVersion": null,
             "entryId": "beda5a61-67be-45b9-b79a-e7a69bdefdcf"
         },
@@ -19725,7 +19725,7 @@
             "key": null,
             "context": null,
             "source": "Ranked Duels Played",
-            "translation": "[DANGER ZONE] Duels Played",
+            "translation": "League Duels Played",
             "ingestionVersion": null,
             "entryId": "d53e5e4a-2b6a-4d5c-9db5-833b3c28a807"
         },
@@ -19733,7 +19733,7 @@
             "key": null,
             "context": null,
             "source": "ranked losses",
-            "translation": "[DANGER ZONE] losses",
+            "translation": "League losses",
             "ingestionVersion": null,
             "entryId": "6baf14f3-e113-492a-a6b5-887c3adc6477"
         },
@@ -19741,7 +19741,7 @@
             "key": null,
             "context": null,
             "source": "RANKED MODE",
-            "translation": "[DANGER ZONE] MODE",
+            "translation": "League MODE",
             "ingestionVersion": null,
             "entryId": "1c8dd129-e87f-4038-970d-2d0a685c3ced"
         },
@@ -19749,7 +19749,7 @@
             "key": null,
             "context": null,
             "source": "Ranked Rounds Played",
-            "translation": "[DANGER ZONE] Rounds Played",
+            "translation": "League Rounds Played",
             "ingestionVersion": null,
             "entryId": "c2765255-8fa9-4496-926e-1d2164a444d3"
         },
@@ -19757,7 +19757,7 @@
             "key": null,
             "context": null,
             "source": "ranked win %",
-            "translation": "[DANGER ZONE] win %",
+            "translation": "League win %",
             "ingestionVersion": null,
             "entryId": "119484b1-d4ee-4fa3-a3c4-5585f8d5f045"
         },
@@ -19765,7 +19765,7 @@
             "key": null,
             "context": null,
             "source": "ranked wins",
-            "translation": "[DANGER ZONE] wins",
+            "translation": "League wins",
             "ingestionVersion": null,
             "entryId": "13ccaf94-afe0-43c2-ab02-8754de128e94"
         },
